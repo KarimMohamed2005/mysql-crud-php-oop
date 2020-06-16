@@ -12,9 +12,9 @@ class Database{
 	 * Database class
 	 */
 	private $db_host = "localhost";  // Change as required
-	private $db_user = "user";  // Change as required
-	private $db_pass = "password";  // Change as required
-	private $db_name = "database";	// Change as required
+	private $db_user = "dplyr";  // Change as required
+	private $db_pass = "dplyr";  // Change as required
+	private $db_name = "dplyr";	// Change as required
 	
 	/*
 	 * Extra variables that are required by other function such as boolean con variable
